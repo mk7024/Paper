@@ -8,6 +8,7 @@ High performance Spigot fork that aims to fix gameplay and mechanics inconsisten
  - [IRC](https://webchat.esper.net/?channels=paper) or [Discord](https://discord.gg/papermc)
  
 
+
 How To (Server Admins)
 ------
 Paperclip is a jar file that you can download and run just like a normal jar file.
